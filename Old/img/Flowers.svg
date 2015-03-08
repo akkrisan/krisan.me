@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="232px" height="213px" viewBox="0 0 232 213" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Flowers</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="26.2255871%" cy="0%" fx="26.2255871%" fy="0%" r="147.75266%" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#FF0000" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <path id="path-2" d="M58.3161217,55 C54.6839086,55 54.2383076,51.6974861 52,47 C45.2965038,32.9315227 37.0760253,5 60.3161217,5 C91.3161217,5 74.3161217,50 74.3161217,50 C74.3161217,50 61.9483348,55 58.3161217,55 Z"></path>
+        <radialGradient cx="4.06736391%" cy="19.1990301%" fx="4.06736391%" fy="19.1990301%" r="172.697061%" id="radialGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#FF0000" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <path id="path-4" d="M90.8497565,62.4336893 C90.8497565,62.4336893 61.8497565,12.4336893 92.8497565,12.4336893 C123.849757,12.4336893 106.849757,57.4336893 106.849757,57.4336893 L90.8497565,62.4336893 Z"></path>
+        <radialGradient cx="94.5053855%" cy="25.9949992%" fx="94.5053855%" fy="25.9949992%" r="160.619972%" id="radialGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#FF0000" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <path id="path-6" d="M23.9727412,112.998521 C19.8051212,111.137246 -5.02725879,62.9985207 25.9727412,62.9985207 C56.9727412,62.9985207 39.9727412,107.998521 39.9727412,107.998521 C39.9727412,107.998521 28.1403613,114.859795 23.9727412,112.998521 Z"></path>
+        <radialGradient cx="71.2070107%" cy="6.53821265%" fx="71.2070107%" fy="6.53821265%" r="122.528806%" id="radialGradient-7">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#FF0303" stop-opacity="0.5" offset="100%"></stop>
+            <stop stop-color="#FF0000" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <path id="path-8" d="M25.7340251,78.7691809 C25.7340251,78.7691809 -3.26597493,28.7691809 27.7340251,28.7691809 C58.7340251,28.7691809 44.9469733,74.7073027 44.9469733,74.7073027 L25.7340251,78.7691809 Z"></path>
+        <radialGradient cx="16.3300178%" cy="64.960797%" fx="16.3300178%" fy="64.960797%" r="116.317961%" id="radialGradient-9">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#FF0000" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <path id="path-10" d="M110.117719,89.4408162 C110.117719,89.4408162 81.117719,39.4408162 112.117719,39.4408162 C143.117719,39.4408162 126.117719,84.4408162 126.117719,84.4408162 L110.117719,89.4408162 Z"></path>
+        <radialGradient cx="27.9711127%" cy="78.6727346%" fx="27.9711127%" fy="78.6727346%" r="99.4043018%" id="radialGradient-11">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#FF0000" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <path id="path-12" d="M105.239717,120.577643 C105.239717,120.577643 76.2397167,70.5776434 107.239717,70.5776434 C138.239717,70.5776434 121.239717,115.577643 121.239717,115.577643 L105.239717,120.577643 Z"></path>
+        <radialGradient cx="50%" cy="83.7804252%" fx="50%" fy="83.7804252%" r="87.6811317%" id="radialGradient-13">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#FF0000" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <path id="path-14" d="M79.7236783,142.086454 C79.7236783,142.086454 50.7236783,92.0864536 81.7236783,92.0864536 C112.723678,92.0864536 95.7236783,137.086454 95.7236783,137.086454 L79.7236783,142.086454 Z"></path>
+        <radialGradient cx="66.4500916%" cy="84.3826078%" fx="66.4500916%" fy="84.3826078%" r="105.035296%" id="radialGradient-15">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#FF0000" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <path id="path-16" d="M46.6059247,138.244932 C46.6059247,138.244932 17.6059247,88.2449315 48.6059247,88.2449315 C75.9340357,88.2449315 67.5356118,124.960434 64.7893242,133.244932 C64.4203246,134.358062 67.0645566,141.236459 67.0645566,141.236459 L46.6059247,138.244932 Z"></path>
+        <radialGradient cx="59.1944552%" cy="87.6113724%" fx="59.1944552%" fy="87.6113724%" r="51.0911947%" id="radialGradient-17">
+            <stop stop-color="#000000" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#767676" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <path id="path-18" d="M97.6132888,76.3915532 C96.9419145,62.7037116 85.5379498,51.995011 72.1278921,52.473001 C58.7101418,52.9509909 48.042919,64.4346664 48.3159121,78.122508 C48.5965977,91.8103496 60.0356176,102.51905 73.8517493,102.04106 C87.6601883,101.56307 98.2923558,90.0793948 97.6132888,76.3915532 Z"></path>
+        <radialGradient cx="35.465157%" cy="18.9693539%" fx="35.465157%" fy="18.9693539%" r="83.3329664%" id="radialGradient-19">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#FF6400" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-20" cx="71" cy="75" r="25"></circle>
+        <linearGradient x1="7.27875663%" y1="43.1545718%" x2="15.4659579%" y2="41.0084055%" id="linearGradient-21">
+            <stop stop-color="#767676" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="53.6342266%" y1="100%" x2="50%" y2="89.5475556%" id="linearGradient-22">
+            <stop stop-color="#767676" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-23" d="M58.3161217,55 C54.6839086,55 54.2383076,51.6974861 52,47 C45.2965038,32.9315227 37.0760253,5 60.3161217,5 C91.3161217,5 74.3161217,50 74.3161217,50 C74.3161217,50 61.9483348,55 58.3161217,55 Z"></path>
+        <path id="path-24" d="M90.8497565,62.4336893 C90.8497565,62.4336893 61.8497565,12.4336893 92.8497565,12.4336893 C123.849757,12.4336893 106.849757,57.4336893 106.849757,57.4336893 L90.8497565,62.4336893 Z"></path>
+        <path id="path-25" d="M23.9727412,112.998521 C19.8051212,111.137246 -5.02725879,62.9985207 25.9727412,62.9985207 C56.9727412,62.9985207 39.9727412,107.998521 39.9727412,107.998521 C39.9727412,107.998521 28.1403613,114.859795 23.9727412,112.998521 Z"></path>
+        <path id="path-26" d="M25.7340251,78.7691809 C25.7340251,78.7691809 -3.26597493,28.7691809 27.7340251,28.7691809 C58.7340251,28.7691809 44.9469733,74.7073027 44.9469733,74.7073027 L25.7340251,78.7691809 Z"></path>
+        <path id="path-27" d="M110.117719,89.4408162 C110.117719,89.4408162 81.117719,39.4408162 112.117719,39.4408162 C143.117719,39.4408162 126.117719,84.4408162 126.117719,84.4408162 L110.117719,89.4408162 Z"></path>
+        <path id="path-28" d="M105.239717,120.577643 C105.239717,120.577643 76.2397167,70.5776434 107.239717,70.5776434 C138.239717,70.5776434 121.239717,115.577643 121.239717,115.577643 L105.239717,120.577643 Z"></path>
+        <path id="path-29" d="M79.7236783,142.086454 C79.7236783,142.086454 50.7236783,92.0864536 81.7236783,92.0864536 C112.723678,92.0864536 95.7236783,137.086454 95.7236783,137.086454 L79.7236783,142.086454 Z"></path>
+        <path id="path-30" d="M46.6059247,138.244932 C46.6059247,138.244932 17.6059247,88.2449315 48.6059247,88.2449315 C75.9340357,88.2449315 67.5356118,124.960434 64.7893242,133.244932 C64.4203246,134.358062 67.0645566,141.236459 67.0645566,141.236459 L46.6059247,138.244932 Z"></path>
+        <path id="path-31" d="M97.7196201,76.2569621 C97.0482457,62.5691205 85.6442811,51.8604199 72.2342234,52.3384098 C58.816473,52.8163998 48.1492503,64.3000752 48.4222433,77.9879169 C48.702929,91.6757585 60.1419488,102.384459 73.9580805,101.906469 C87.7665195,101.428479 98.398687,89.9448037 97.7196201,76.2569621 Z"></path>
+        <circle id="path-32" cx="71" cy="75" r="25"></circle>
+        <linearGradient x1="0%" y1="22.796648%" x2="19.5230278%" y2="25.0563714%" id="linearGradient-33">
+            <stop stop-color="#767676" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-34" d="M26.6948382,49.4355983 C26.6948382,49.4355983 -2.30516183,-0.564401709 28.6948382,-0.564401709 C56.0229492,-0.564401709 47.6245253,36.1511003 44.8782377,44.4355983 C44.5092381,45.5487289 47.15347,52.4271258 47.15347,52.4271258 L26.6948382,49.4355983 Z"></path>
+        <linearGradient x1="7.91739103%" y1="10.1361444%" x2="23.5642328%" y2="20.9165804%" id="linearGradient-35">
+            <stop stop-color="#767676" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-36" d="M51.0261875,71.8087467 C51.0261875,71.8087467 22.0261875,21.8087467 53.0261875,21.8087467 C80.3542985,21.8087467 71.9558746,58.5242487 69.209587,66.8087467 C68.8405874,67.9218773 71.4848193,74.8002742 71.4848193,74.8002742 L51.0261875,71.8087467 Z"></path>
+        <linearGradient x1="4.79895517%" y1="5.90150754%" x2="12.7967684%" y2="23.4767863%" id="linearGradient-37">
+            <stop stop-color="#767676" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-38" d="M82.9481643,73.870912 C82.9481643,73.870912 53.9481643,23.870912 84.9481643,23.870912 C112.276275,23.870912 103.877851,60.5864141 101.131564,68.870912 C100.762564,69.9840426 103.406796,76.8624396 103.406796,76.8624396 L82.9481643,73.870912 Z"></path>
+        <linearGradient x1="57.8148723%" y1="-5.52924106%" x2="88.7745107%" y2="27.3733229%" id="linearGradient-39">
+            <stop stop-color="#767676" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-40" d="M58.3161217,55 C54.6839086,55 54.2383076,51.6974861 52,47 C45.2965038,32.9315227 37.0760253,5 60.3161217,5 C91.3161217,5 74.3161217,50 74.3161217,50 C74.3161217,50 61.9483348,55 58.3161217,55 Z"></path>
+        <path id="path-41" d="M90.8497565,62.4336893 C90.8497565,62.4336893 61.8497565,12.4336893 92.8497565,12.4336893 C123.849757,12.4336893 106.849757,57.4336893 106.849757,57.4336893 L90.8497565,62.4336893 Z"></path>
+        <path id="path-42" d="M23.9727412,112.998521 C19.8051212,111.137246 -5.02725879,62.9985207 25.9727412,62.9985207 C56.9727412,62.9985207 39.9727412,107.998521 39.9727412,107.998521 C39.9727412,107.998521 28.1403613,114.859795 23.9727412,112.998521 Z"></path>
+        <path id="path-43" d="M25.7340251,78.7691809 C25.7340251,78.7691809 -3.26597493,28.7691809 27.7340251,28.7691809 C58.7340251,28.7691809 44.9469733,74.7073027 44.9469733,74.7073027 L25.7340251,78.7691809 Z"></path>
+        <path id="path-44" d="M110.117719,89.4408162 C110.117719,89.4408162 81.117719,39.4408162 112.117719,39.4408162 C143.117719,39.4408162 126.117719,84.4408162 126.117719,84.4408162 L110.117719,89.4408162 Z"></path>
+        <path id="path-45" d="M105.239717,120.577643 C105.239717,120.577643 76.2397167,70.5776434 107.239717,70.5776434 C138.239717,70.5776434 121.239717,115.577643 121.239717,115.577643 L105.239717,120.577643 Z"></path>
+        <path id="path-46" d="M79.7236783,142.086454 C79.7236783,142.086454 50.7236783,92.0864536 81.7236783,92.0864536 C112.723678,92.0864536 95.7236783,137.086454 95.7236783,137.086454 L79.7236783,142.086454 Z"></path>
+        <path id="path-47" d="M46.6059247,138.244932 C46.6059247,138.244932 17.6059247,88.2449315 48.6059247,88.2449315 C75.9340357,88.2449315 67.5356118,124.960434 64.7893242,133.244932 C64.4203246,134.358062 67.0645566,141.236459 67.0645566,141.236459 L46.6059247,138.244932 Z"></path>
+        <path id="path-48" d="M97.8369766,76.2755385 C97.1656023,62.5876969 85.7616377,51.8789963 72.35158,52.3569862 C58.9338296,52.8349762 48.2666069,64.3186516 48.5395999,78.0064932 C48.8202856,91.6943348 60.2593054,102.403035 74.0754371,101.925045 C87.8838761,101.447056 98.5160436,89.9633801 97.8369766,76.2755385 Z"></path>
+        <circle id="path-49" cx="71" cy="75" r="25"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Flowers" sketch:type="MSLayerGroup" transform="translate(-2.000000, -4.000000)">
+            <g id="Group" transform="translate(0.000000, 66.000000)">
+                <path id="Path-13" stroke="#979797" sketch:type="MSShapeGroup" d=""></path>
+                <g id="Path-14">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                    <use stroke="none" fill="url(#radialGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Path-15">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(95.017376, 37.433689) rotate(45.000000) translate(-95.017376, -37.433689) " xlink:href="#path-4"></use>
+                    <use stroke="none" fill="url(#radialGradient-3)" xlink:href="#path-4"></use>
+                </g>
+                <g id="Path-21">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(27.620862, 88.158611) rotate(-98.000000) translate(-27.620862, -88.158611) " xlink:href="#path-6"></use>
+                    <use stroke="none" fill="url(#radialGradient-5)" xlink:href="#path-6"></use>
+                </g>
+                <g id="Path-20">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(30.710120, 53.769181) rotate(-53.000000) translate(-30.710120, -53.769181) " xlink:href="#path-8"></use>
+                    <use stroke="none" fill="url(#radialGradient-7)" xlink:href="#path-8"></use>
+                </g>
+                <g id="Path-16">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F6" sketch:type="MSShapeGroup" transform="translate(114.285339, 64.440816) rotate(89.000000) translate(-114.285339, -64.440816) " xlink:href="#path-10"></use>
+                    <use stroke="none" fill="url(#radialGradient-9)" xlink:href="#path-10"></use>
+                </g>
+                <g id="Path-19">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(109.407336, 95.577643) rotate(127.000000) translate(-109.407336, -95.577643) " xlink:href="#path-12"></use>
+                    <use stroke="none" fill="url(#radialGradient-11)" xlink:href="#path-12"></use>
+                </g>
+                <g id="Path-17">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(83.891298, 117.086454) rotate(172.000000) translate(-83.891298, -117.086454) " xlink:href="#path-14"></use>
+                    <use stroke="none" fill="url(#radialGradient-13)" xlink:href="#path-14"></use>
+                </g>
+                <g id="Path-18">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(51.233651, 114.740695) rotate(216.000000) translate(-51.233651, -114.740695) " xlink:href="#path-16"></use>
+                    <use stroke="none" fill="url(#radialGradient-15)" xlink:href="#path-16"></use>
+                </g>
+                <g id="Oval-7">
+                    <use fill="none" sketch:type="MSShapeGroup" xlink:href="#path-18"></use>
+                    <use fill="url(#radialGradient-17)" fill-rule="evenodd" xlink:href="#path-18"></use>
+                </g>
+                <g id="Oval-6">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD13F" sketch:type="MSShapeGroup" xlink:href="#path-20"></use>
+                    <use stroke="none" fill="url(#radialGradient-19)" xlink:href="#path-20"></use>
+                </g>
+            </g>
+            <path d="M120.672599,157.353691 C120.672599,157.353691 91.6725986,107.353691 122.672599,107.353691 C150.00071,107.353691 141.602286,144.069193 138.855998,152.353691 C138.486999,153.466822 141.13123,160.345219 141.13123,160.345219 L120.672599,157.353691 Z" id="Path-26" fill="url(#linearGradient-21)" sketch:type="MSShapeGroup" transform="translate(125.300325, 133.849455) rotate(297.000000) translate(-125.300325, -133.849455) "></path>
+            <path d="M106.634851,180.984377 C85.3969195,170.48799 115.029535,156.299241 122.377405,153.424647 C123.364687,153.038408 125.638448,148.760308 125.638448,148.760308 L139.655162,158.037121 C139.655162,158.037121 130.726375,192.891091 106.634851,180.984377 Z" id="Path-27" fill="url(#linearGradient-22)" sketch:type="MSShapeGroup" transform="translate(119.376746, 166.111786) rotate(7.000000) translate(-119.376746, -166.111786) "></path>
+            <g id="Group-8" transform="translate(94.000000, 74.000000)">
+                <path id="Path-13" stroke="#979797" sketch:type="MSShapeGroup" d=""></path>
+                <g id="Path-14">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" xlink:href="#path-23"></use>
+                    <use stroke="none" fill="url(#radialGradient-1)" xlink:href="#path-23"></use>
+                </g>
+                <g id="Path-15">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(95.017376, 37.433689) rotate(45.000000) translate(-95.017376, -37.433689) " xlink:href="#path-24"></use>
+                    <use stroke="none" fill="url(#radialGradient-3)" xlink:href="#path-24"></use>
+                </g>
+                <g id="Path-21">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(27.620862, 88.158611) rotate(-98.000000) translate(-27.620862, -88.158611) " xlink:href="#path-25"></use>
+                    <use stroke="none" fill="url(#radialGradient-5)" xlink:href="#path-25"></use>
+                </g>
+                <g id="Path-20">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(30.710120, 53.769181) rotate(-53.000000) translate(-30.710120, -53.769181) " xlink:href="#path-26"></use>
+                    <use stroke="none" fill="url(#radialGradient-7)" xlink:href="#path-26"></use>
+                </g>
+                <g id="Path-16">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F6" sketch:type="MSShapeGroup" transform="translate(114.285339, 64.440816) rotate(89.000000) translate(-114.285339, -64.440816) " xlink:href="#path-27"></use>
+                    <use stroke="none" fill="url(#radialGradient-9)" xlink:href="#path-27"></use>
+                </g>
+                <g id="Path-19">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(109.407336, 95.577643) rotate(127.000000) translate(-109.407336, -95.577643) " xlink:href="#path-28"></use>
+                    <use stroke="none" fill="url(#radialGradient-11)" xlink:href="#path-28"></use>
+                </g>
+                <g id="Path-17">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(83.891298, 117.086454) rotate(172.000000) translate(-83.891298, -117.086454) " xlink:href="#path-29"></use>
+                    <use stroke="none" fill="url(#radialGradient-13)" xlink:href="#path-29"></use>
+                </g>
+                <g id="Path-18">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(51.233651, 114.740695) rotate(216.000000) translate(-51.233651, -114.740695) " xlink:href="#path-30"></use>
+                    <use stroke="none" fill="url(#radialGradient-15)" xlink:href="#path-30"></use>
+                </g>
+                <g id="Oval-9">
+                    <use fill="none" sketch:type="MSShapeGroup" xlink:href="#path-31"></use>
+                    <use fill="url(#radialGradient-17)" fill-rule="evenodd" xlink:href="#path-31"></use>
+                </g>
+                <g id="Oval-6">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD13F" sketch:type="MSShapeGroup" xlink:href="#path-32"></use>
+                    <use stroke="none" fill="url(#radialGradient-19)" xlink:href="#path-32"></use>
+                </g>
+            </g>
+            <g id="Group" transform="translate(58.000000, 67.000000)">
+                <g id="Path-22">
+                    <use fill="none" sketch:type="MSShapeGroup" transform="translate(31.322565, 25.931362) rotate(250.000000) translate(-31.322565, -25.931362) " xlink:href="#path-34"></use>
+                    <use fill="url(#linearGradient-33)" fill-rule="evenodd" xlink:href="#path-34"></use>
+                </g>
+                <g id="Path-23">
+                    <use fill="none" sketch:type="MSShapeGroup" transform="translate(55.653914, 48.304510) rotate(206.000000) translate(-55.653914, -48.304510) " xlink:href="#path-36"></use>
+                    <use fill="url(#linearGradient-35)" fill-rule="evenodd" xlink:href="#path-36"></use>
+                </g>
+                <g id="Path-24">
+                    <use fill="none" sketch:type="MSShapeGroup" transform="translate(87.575891, 50.366676) rotate(171.000000) translate(-87.575891, -50.366676) " xlink:href="#path-38"></use>
+                    <use fill="url(#linearGradient-37)" fill-rule="evenodd" xlink:href="#path-38"></use>
+                </g>
+                <path d="M107.755304,58.8914703 C107.755304,58.8914703 78.7553038,8.89147027 109.755304,8.89147027 C137.083415,8.89147027 128.684991,45.6069723 125.938703,53.8914703 C125.569704,55.0046009 128.213936,61.8829978 128.213936,61.8829978 L107.755304,58.8914703 Z" id="Path-25" fill="url(#linearGradient-39)" sketch:type="MSShapeGroup" transform="translate(112.383031, 35.387234) rotate(126.000000) translate(-112.383031, -35.387234) "></path>
+            </g>
+            <g id="Group-7" transform="translate(57.000000, 0.000000)">
+                <g id="Path-14">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" xlink:href="#path-40"></use>
+                    <use stroke="none" fill="url(#radialGradient-1)" xlink:href="#path-40"></use>
+                </g>
+                <g id="Path-15">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(95.017376, 37.433689) rotate(45.000000) translate(-95.017376, -37.433689) " xlink:href="#path-41"></use>
+                    <use stroke="none" fill="url(#radialGradient-3)" xlink:href="#path-41"></use>
+                </g>
+                <g id="Path-21">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(27.620862, 88.158611) rotate(-98.000000) translate(-27.620862, -88.158611) " xlink:href="#path-42"></use>
+                    <use stroke="none" fill="url(#radialGradient-5)" xlink:href="#path-42"></use>
+                </g>
+                <g id="Path-20">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(30.710120, 53.769181) rotate(-53.000000) translate(-30.710120, -53.769181) " xlink:href="#path-43"></use>
+                    <use stroke="none" fill="url(#radialGradient-7)" xlink:href="#path-43"></use>
+                </g>
+                <g id="Path-16">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F6" sketch:type="MSShapeGroup" transform="translate(114.285339, 64.440816) rotate(89.000000) translate(-114.285339, -64.440816) " xlink:href="#path-44"></use>
+                    <use stroke="none" fill="url(#radialGradient-9)" xlink:href="#path-44"></use>
+                </g>
+                <g id="Path-19">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(109.407336, 95.577643) rotate(127.000000) translate(-109.407336, -95.577643) " xlink:href="#path-45"></use>
+                    <use stroke="none" fill="url(#radialGradient-11)" xlink:href="#path-45"></use>
+                </g>
+                <g id="Path-17">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(83.891298, 117.086454) rotate(172.000000) translate(-83.891298, -117.086454) " xlink:href="#path-46"></use>
+                    <use stroke="none" fill="url(#radialGradient-13)" xlink:href="#path-46"></use>
+                </g>
+                <g id="Path-18">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD3F5" sketch:type="MSShapeGroup" transform="translate(51.233651, 114.740695) rotate(216.000000) translate(-51.233651, -114.740695) " xlink:href="#path-47"></use>
+                    <use stroke="none" fill="url(#radialGradient-15)" xlink:href="#path-47"></use>
+                </g>
+                <g id="Oval-8">
+                    <use fill="none" sketch:type="MSShapeGroup" xlink:href="#path-48"></use>
+                    <use fill="url(#radialGradient-17)" fill-rule="evenodd" xlink:href="#path-48"></use>
+                </g>
+                <g id="Oval-6">
+                    <use stroke="#E5BDBD" stroke-width="1" fill="#FFD13F" sketch:type="MSShapeGroup" xlink:href="#path-49"></use>
+                    <use stroke="none" fill="url(#radialGradient-19)" xlink:href="#path-49"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="204px" height="204px" viewBox="0 0 204 204" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Clear Github</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Clear-Github" sketch:type="MSLayerGroup" transform="translate(2.000000, 2.000000)" stroke="#FFFFFF">
+            <circle id="Oval-1" stroke-width="3" sketch:type="MSShapeGroup" cx="100" cy="100" r="100"></circle>
+            <g id="Github-2" transform="translate(44.000000, 60.000000)" stroke-width="0.5" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                <path d="M5.98647255,29.5120631 C2.61538383,21.6251986 0.55005536,3.76705474 4.22864261,0.893027393 C7.67535384,-1.79983855 23.4861212,4.37944117 30.4937181,8.85014815 C38.2780226,5.48624143 47.1222012,3.58536585 56.5,3.58536585 C66.2046726,3.58536585 75.3378768,5.62106523 83.3163887,9.20722042 C90.0102151,4.71850334 106.588274,-1.87231796 110.127755,0.893027393 C114.023219,3.93649762 111.477519,23.7829925 107.760975,30.7979203 C111.123037,36.8143512 113,43.5215536 113,50.5934959 C113,76.5553693 87.7040884,97.601626 56.5,97.601626 C25.2959116,97.601626 0,76.5553693 0,50.5934959 C0,43.0135004 2.15633475,35.8525336 5.98647255,29.5120631 L5.98647255,29.5120631 Z M56.7010676,92.8211382 C82.6859668,92.8211382 103.75089,78.9983849 103.75089,61.9471545 C103.75089,44.8959241 82.6859668,31.0731707 56.7010676,31.0731707 C30.7161684,31.0731707 9.65124555,44.8959241 9.65124555,61.9471545 C9.65124555,78.9983849 30.7161684,92.8211382 56.7010676,92.8211382 Z" id="Triangle-3"></path>
+                <ellipse id="Oval-67" cx="31.366548" cy="61.5487805" rx="4.02135231" ry="7.3699187"></ellipse>
+                <ellipse id="Oval-68" cx="81.2313167" cy="61.5487805" rx="4.02135231" ry="7.3699187"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

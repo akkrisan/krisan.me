@@ -1,0 +1,70 @@
+<html lang="en" class="no-js">
+
+	<head>
+		<meta charset="UTF-8">
+	
+		<title>Anastasia Krisan</title>
+		
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="css/menu_elastic.css" />
+		<link href='http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700|Pacifico' rel='stylesheet' type='text/css'>
+		<script src="js/snap.svg-min.js"></script>
+		<script src="js/bootstrap.js"></script>
+		<!--[if IE]>
+  		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<link rel="stylesheet" type="text/css" href="css/styles.css" />
+	
+	</head>
+
+	<body>
+		
+		<div id="bg"></div>
+		
+		<div class="mycontainer">
+			<div class="menu-wrap">
+				<nav class="menu">
+					<div class="icon-list">
+						<a onclick="loadtask('home')"><i class="fa fa-fw fa-star-o"></i><span>Home</span></a>
+						<a onclick="loadtask('about')"><i class="fa fa-fw fa-bell-o"></i><span>About</span></a>
+						<a onclick="loadtask('portfolio')"><i class="fa fa-fw fa-envelope-o"></i><span>Portfolio</span></a>
+						<a onclick="loadtask('resume')"><i class="fa fa-fw fa-comment-o"></i><span>Resume</span></a>
+						<div class="menuImages">
+							<a href="#" data-toggle="popover" data-placement="top" data-content="(210) 723-9168"><img class="social" height="50px;" src="img/ClearPhone.svg"/></a><a href="#" data-toggle="popover" data-placement="top" data-content="akkrisan@gmail.com"><img class="social" height="50px;" src="img/ClearMail.svg"/></a><a href="https://www.facebook.com/akkrisan"><img class="social" height="50px;" src="img/ClearFacebook.svg"/></a><br />
+							<a href="https://github.com/akkrisan"><img class="social" height="50px;" src="img/ClearGithub.svg"/></a><a class="social" href="https://www.linkedin.com/profile/view?id=380182551&trk=nav_responsive_tab_profile"><img height="50px;" class="social" src="img/ClearLinkedIn.svg"/></a><a class="social" href="https://dribbble.com/akkrisan"><img class="social" height="50px;" src="img/ClearDribbble.svg"/></a>
+						</div>
+					</div>
+				</nav>
+				<button class="close-button" id="close-button">Close Menu</button>
+				<div class="morph-shape" id="morph-shape" data-morph-open="M-1,0h101c0,0,0-1,0,395c0,404,0,405,0,405H-1V0z">
+					<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 100 800" preserveAspectRatio="none">
+						<path d="M-1,0h101c0,0-97.833,153.603-97.833,396.167C2.167,627.579,100,800,100,800H-1V0z"/>
+					</svg>
+				</div>
+			</div>
+			<button class="menu-button" id="open-button">Open Menu</button>
+			<div id="pagecontent" class="content-wrap">
+			</div><!-- /content-wrap -->
+		</div><!-- /mycontainer -->
+		
+		
+
+		<script src="js/classie.js"></script>
+		<script src="js/main3.js"></script>
+		
+	</body>
+	
+	<script src="js/bootstrap.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+	<script src="js/pageload.js"></script>
+
+	 
+	<script>
+	$(function () {
+	  $('[data-toggle="popover"]').popover()
+	})
+	</script> 
+	 
+</html>
